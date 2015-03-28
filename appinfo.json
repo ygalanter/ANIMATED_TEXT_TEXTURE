@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "yuri@galanter.net",
+    "longName": "_test_anim",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/ezgif.com-gif-maker.png",
+                "name": "ANIMATION",
+                "type": "raw"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "_test_anim",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "0d319e49-85fe-4c30-bca0-bc857d764dac",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
